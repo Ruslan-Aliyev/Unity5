@@ -1,3 +1,3 @@
-- Game: Pick up Objects [](./Game001.md)
+- Game: Pick up Objects [Here](./Game001.md)
 
-- Augmented Reality [](AugmentedReality001.md)
+- Augmented Reality [Here](./AugmentedReality001.md)
